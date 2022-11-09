@@ -48,8 +48,6 @@ func GetBio() Bio {
   
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
-
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
